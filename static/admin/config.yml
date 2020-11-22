@@ -1,5 +1,5 @@
 backend:
-  name: github_first_blog
+  name: gatsby-cms-netlify
   repo: Dfcc/gatsby-cms-netlify
 
 media_folder: content/assets
