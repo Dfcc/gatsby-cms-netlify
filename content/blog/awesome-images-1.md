@@ -1,7 +1,7 @@
 ---
 path: awesome-images piti cms
 date: 2020-12-07T20:10:10.915Z
-title: Awesome Images
+title: Awesome Images piti cms
 description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 ---
 ![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
